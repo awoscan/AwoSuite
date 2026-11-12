@@ -1,0 +1,33 @@
+{
+  "name": "@awoscan/awo-suite-sdk",
+  "version": "2.2.0",
+  "description": "Universal Cross-CMS Embed SDK & Web Component (<awo-suite-widget>) for all 23 AWO Suite B2B Corporate Tools (AwoSign, AwoQuote, AwoExpense, AwoBalance, AwoOutdoor, AwoProof, and more) in Turkish & English.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "awoscan",
+    "awosuite",
+    "awosign",
+    "vcard",
+    "qr-code",
+    "email-signature",
+    "iban-validator",
+    "b2b-tools",
+    "wordpress",
+    "shopify",
+    "web-component"
+  ],
+  "homepage": "https://awosuite.awoscan.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awoscan/AwoSuite.git",
+    "directory": "sdk"
+  },
+  "bugs": {
+    "url": "https://github.com/awoscan/AwoSuite/issues",
+    "email": "hello@awoscan.com"
+  },
+  "author": "AwoScan <hello@awoscan.com> (https://awoscan.com)",
+  "license": "GPL-2.0-or-later"
+}
+
