@@ -18,3 +18,4 @@ Güvenlik sorunları için lütfen herkese açık issue **açmayın**.
 | :--- | :---: |
 | 2.2.x | ✅ |
 | < 2.2 | ❌ |
+

@@ -7,3 +7,4 @@
 - New tools: **AwoOutdoor Media** and **AwoProof**; AwoMutabakat renamed to **AwoBalance**.
 - `@awoscan/awo-suite-sdk` embed SDK with `<awo-suite-widget>` web component.
 - Public discovery endpoints: `/openapi.json`, `/api/catalog`, `/.well-known/mcp.json`.
+
