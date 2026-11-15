@@ -1,0 +1,21 @@
+[build-system]
+requires = ["flit_core >=3.4,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "awo_suite"
+authors = [
+    { name = "AwoScan", email = "hello@awoscan.com" }
+]
+description = "AWO Suite Thin Adapter for ERPNext & Frappe (v14/v15): AwoExpense VAT/Approval/Audit Engine & AwoBom Manufacturing Unit Costing Studio powered by AWO Universal API v1."
+requires-python = ">=3.10"
+readme = "README.md"
+dynamic = ["version"]
+dependencies = []
+
+[project.urls]
+Homepage = "https://awosuite.awoscan.com"
+Documentation = "https://awosuite.awoscan.com/welcome-en"
+Repository = "https://github.com/awoscan/AwoSuite"
+
+[tool.bench.dev-dependencies]
